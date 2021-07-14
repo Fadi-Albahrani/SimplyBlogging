@@ -45,6 +45,10 @@ function addNewBlog() {
 </SECtion>`;
 
 
+        document.getElementById("blogTitle").value = "";
+        document.getElementById("authorName").value = "";
+        document.getElementById("blogContent").value = "";
+
     }
 
 
