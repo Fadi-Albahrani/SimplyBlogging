@@ -29,7 +29,6 @@ function addNewBlog() {
             </div>
 
             <hr>
-            <br>
 
             <div>
                 <h1 class="row blog-title">${blogTitle}</h1>
