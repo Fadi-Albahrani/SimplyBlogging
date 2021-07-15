@@ -59,23 +59,23 @@
   }
 
   .modal-title{
-    font-size: 50px;
+    font-size: 25px;
   }
 
   .modal-content{
-    font-size: 50px;
+    font-size: 20px;
     padding: 2%;
-   min-height: 1000px;
+   min-height: 500px;
    
   }
 
   .modal-body{
     padding: 5%;
-    min-height: 1200px;
+    min-height: 600px;
   }
 
   .modal-lg {
-    max-width: 80%;
+    max-width: 60%;
   }
 
   .blog-title{
@@ -167,12 +167,14 @@ padding-bottom: 2%;
 width: auto;
 height: auto;
 padding: 1%;
+font-size: 20px;
 }
 
 #modelAddBlog{
   width: auto;
   height: auto;
   padding: 1%;
+  font-size: 20px;
 }
 
 .blog-title-author-modal{
