@@ -49,13 +49,13 @@
 @media screen and (min-width: 769px) {
 
   .btn{
-    height: 100px;
-    width: 250px;
-    font-size: 38px;
+    height: 80px;
+    width: 200px;
+    font-size: 30px;
   }
 
   .blog-content{
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .modal-title{
@@ -78,14 +78,27 @@
     max-width: 80%;
   }
 
+  .blog-title{
+    font-size: 25px;
+  }
+
+  .post-date{
+    font-size: 20px;
+  }
+  
+  .author-name{
+    font-size: 20px;
+  }
+
+
 }
 
 
 
 
 .mainLogo{
-    width: 600px;
-    height:100px;
+    width: 400px;
+    height:80px;
 }
 
 
